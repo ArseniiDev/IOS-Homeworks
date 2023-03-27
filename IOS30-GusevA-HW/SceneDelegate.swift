@@ -23,11 +23,18 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
 
         let profileViewController = ProfileViewController()
         profileViewController.title = "Профиль"
+<<<<<<< HEAD
+=======
+        profileViewController.view.backgroundColor = .systemYellow
+>>>>>>> 81296c8ea866d71da25ffad22a8f9912de2ca80b
         let tabBarController = UITabBarController()
 
         feedViewController.tabBarItem = UITabBarItem(tabBarSystemItem: .featured, tag: 0)
         profileViewController.tabBarItem = UITabBarItem(tabBarSystemItem: .recents, tag: 1)
+<<<<<<< HEAD
         
+=======
+>>>>>>> 81296c8ea866d71da25ffad22a8f9912de2ca80b
 
         let controllers = [feedViewController, profileViewController]
         tabBarController.viewControllers = controllers.map {

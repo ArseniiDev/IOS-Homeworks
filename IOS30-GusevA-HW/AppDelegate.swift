@@ -1,8 +1,14 @@
 //
 //  AppDelegate.swift
+<<<<<<< HEAD
 //  Profile
 //
 //  Created by Arseniy Gusev on 3/16/23.
+=======
+//  IOS30-GusevA-HW
+//
+//  Created by Arseniy Gusev on 3/5/23.
+>>>>>>> 81296c8ea866d71da25ffad22a8f9912de2ca80b
 //
 
 import UIKit

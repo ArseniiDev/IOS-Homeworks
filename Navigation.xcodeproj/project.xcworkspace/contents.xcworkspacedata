@@ -2,6 +2,10 @@
 <Workspace
    version = "1.0">
    <FileRef
+<<<<<<< HEAD
       location = "self:/Users/arseniygusev/Desktop/Chapter 2/IOS30-GusevA-HW2.1/Profile/Navigation.xcodeproj">
+=======
+      location = "self:/Users/arseniygusev/Desktop/Chapter 2/IOS30-GusevA-HW/Navigation.xcodeproj">
+>>>>>>> 81296c8ea866d71da25ffad22a8f9912de2ca80b
    </FileRef>
 </Workspace>

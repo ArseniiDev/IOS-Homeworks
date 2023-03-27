@@ -28,7 +28,11 @@ class InfoViewController: UIViewController {
             print("cancel console")
 
         }))
+<<<<<<< HEAD
 
+=======
+        
+>>>>>>> 81296c8ea866d71da25ffad22a8f9912de2ca80b
         present(alertController, animated: true)
     }
 
