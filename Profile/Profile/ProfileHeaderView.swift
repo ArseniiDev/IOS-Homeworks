@@ -71,12 +71,7 @@ class ProfileHeaderView: UIView {
         self.avatarImageView.image = image
         self.setNeedsLayout()
     }
-    //    func setup(name: String, description: String, image: UIImage? ){
-    //        self.nameLabel.text = name
-    //        self.descriptionLabel.text = description
-    //        self.avatarImageView.image = image
-    //
-    //    }
+
 
     private func setupSelf(){
         self.addSubview(self.avatarImageView)

@@ -134,12 +134,6 @@ class LogInViewController: UIViewController,UITextFieldDelegate {
     // MARK: - Actions
 
 
-//    @objc func willShowKeyboard(_ notification: NSNotification) {
-//        let keyboardHeight = (notification.userInfo?[UIResponder.keyboardFrameEndUserInfoKey] as? NSValue)?.cgRectValue.height
-//        scrollView.contentInset.bottom += keyboardHeight ?? 0.0
-//    }
-
-
 
     @objc private func keyboardDidShow(_ notification: NSNotification) {
         guard let keyboardFrame = notification.userInfo?[UIResponder.keyboardFrameEndUserInfoKey] as? NSValue else {
