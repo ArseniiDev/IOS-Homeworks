@@ -22,7 +22,6 @@
 		525842882A78BC1A00E53369 /* StorageService.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 525842822A78BC1A00E53369 /* StorageService.framework */; };
 		525842892A78BC1A00E53369 /* StorageService.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 525842822A78BC1A00E53369 /* StorageService.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		5258428E2A78BC4600E53369 /* Post.swift in Sources */ = {isa = PBXBuildFile; fileRef = 521864BA29C41D7500B02339 /* Post.swift */; };
-		5258428F2A78BC7100E53369 /* Post.swift in Sources */ = {isa = PBXBuildFile; fileRef = 521864BA29C41D7500B02339 /* Post.swift */; };
 		527761652A573664002DD01A /* PostTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 527761642A573664002DD01A /* PostTableViewCell.swift */; };
 		527761672A6CB4D6002DD01A /* ProfileHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 527761662A6CB4D6002DD01A /* ProfileHeaderView.swift */; };
 		527761692A6CC69C002DD01A /* Extention.swift in Sources */ = {isa = PBXBuildFile; fileRef = 527761682A6CC69C002DD01A /* Extention.swift */; };
@@ -266,7 +265,6 @@
 				521864A529C41C6E00B02339 /* FeedViewController.swift in Sources */,
 				5258423C2A70BDB500E53369 /* TabController.swift in Sources */,
 				527761652A573664002DD01A /* PostTableViewCell.swift in Sources */,
-				5258428F2A78BC7100E53369 /* Post.swift in Sources */,
 				521864A129C41C6E00B02339 /* AppDelegate.swift in Sources */,
 				527761692A6CC69C002DD01A /* Extention.swift in Sources */,
 				521864A329C41C6E00B02339 /* SceneDelegate.swift in Sources */,

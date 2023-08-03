@@ -4,22 +4,12 @@
 //
 //  Created by Arseniy Gusev on 7/6/23.
 //
-
+import StorageService
 import UIKit
 
 
 class PostTableViewCell: UITableViewCell {
 
-//    private lazy var actionButton: UIButton = {
-//        let button  = UIButton()
-//        button.translatesAutoresizingMaskIntoConstraints = false
-//        button.layer.cornerRadius = 16
-//        button.alpha = 1.0
-//        button.setBackgroundImage(UIImage(named: "blue-pixel"), for: .normal)
-//        button.setTitle("Show Profile", for: .normal)
-//        button.addTarget(self, action: #selector(buttonPressed(_:)), for: .touchUpInside)
-//        return button
-//    }()
 
     var videoHeaderLabel:UILabel = {
         let header = UILabel()
