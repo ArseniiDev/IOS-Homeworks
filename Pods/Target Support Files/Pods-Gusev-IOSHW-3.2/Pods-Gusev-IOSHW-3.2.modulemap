@@ -1,0 +1,6 @@
+framework module Pods_Gusev_IOSHW_3_2 {
+  umbrella header "Pods-Gusev-IOSHW-3.2-umbrella.h"
+
+  export *
+  module * { export * }
+}
